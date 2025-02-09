@@ -1,3 +1,6 @@
+!!! warning "Deprecated"
+    should not be viewed as proper notes!
+
 ## Chap 1 Intro
 
 * B2C business-to-consumer, B2B, G2C government-to-consumer, C2C comsumer-to-consumer, P2P peer-to-peer

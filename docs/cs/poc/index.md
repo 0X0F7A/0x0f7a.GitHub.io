@@ -1,3 +1,6 @@
+!!! warning "Deprecated"
+    should not be viewed as proper notes!
+
 ## Chap 1
 
 * Power Set $2^S = \set{T|T\subseteq S}$

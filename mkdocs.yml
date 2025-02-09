@@ -23,6 +23,8 @@ nav:
   - 杂项:
     - 记录文件修改: misc/file_logging/index.md
     - 脚本: scripts.md
+  - 绘画:
+    - "0": drawing/00/index.md
 
 theme:
   name: material

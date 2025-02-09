@@ -1,3 +1,6 @@
+!!! warning "Deprecated"
+    should not be viewed as proper notes!
+
 # 第一章 概论 & performance
 
 * Dennard Scaling: Power density is constant for a given area, end in 2004

@@ -13,6 +13,9 @@
 
 </style> -->
 
+!!! warning "Deprecated"
+    should not be viewed as proper notes!
+
 ## $\lambda$ 运算
 ### BNF描述$\lambda$语言
 
